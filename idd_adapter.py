@@ -80,6 +80,7 @@ flags.DEFINE_boolean('use_tensorboard', True, 'Use tensorboard to log losses')
 
 # Set Required Flags
 flags.mark_flag_as_required('name')
+flags.mark_flag_as_required('base_name')
 #flags.mark_flag_as_required('image_width')
 #flags.mark_flag_as_required('batch_size')
 #flags.mark_flag_as_required('data_threads')
