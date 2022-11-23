@@ -6,4 +6,4 @@ numpy==1.19.2
 torch==1.8.1
 absl_py==0.13.0
 opencv_contrib_python==4.5.1.48
-Pillow==8.2.0
+Pillow==9.2.0
